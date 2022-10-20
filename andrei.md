@@ -53,7 +53,7 @@ FURB – Universidade Regional de Blumenau - Concluído em 06/2025
 
 ##### INFORMAÇÕES COMPLEMENTARES:
 
- **LinkedIn:** https://www.linkedin.com/in/andrei-robson-da-silva-77a87a129/
+**LinkedIn:** https://www.linkedin.com/in/andrei-robson-da-silva-77a87a129/
 **Currículo Lattes:** http://lattes.cnpq.br/6745198173621097 
 **GitHub:** https://github.com/AndreiDaSilva 
 <br>
