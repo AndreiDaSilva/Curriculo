@@ -62,5 +62,6 @@ Possuo carro próprio.
 
 ### Certificados
 
-<img src="../certificados/certificado_introdução_ao_git_github.png" alt="certificado_introdução_ao_git_github" title="Employee Data title">
+<img src="../certificados/certificado_introdução_ao_git_github.png" alt="certificado_introdução_ao_git_github" title="Certificado GIT e GITHUB">
+<img src="../certificados/certificado_introdução_html_css.png" alt="certificado_introdução_ao_git_github" title="Certificado HTML5 E CSS3">
 
