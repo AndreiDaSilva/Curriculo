@@ -17,7 +17,7 @@ Conhecimento:
  - HTML, 
  - CSS,
  - Git,
- - GitHub 
+ - GitHub.
 
   Excelente comunicação interpessoal, organização, planejamento, pensamento criativo, capacidade de resolver problemas e liderança de equipes.  
  
