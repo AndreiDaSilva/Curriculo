@@ -59,3 +59,8 @@ FURB – Universidade Regional de Blumenau - Concluído em 06/2025
 <br>
 Disponibilidade de horário;
 Possuo carro próprio. 
+
+### Certificados
+
+<img src="certificado_introdução_ao_git_github.png" alt="certificado_introdução_ao_git_github" title="Employee Data title">
+
