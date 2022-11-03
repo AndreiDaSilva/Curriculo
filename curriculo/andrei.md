@@ -65,4 +65,4 @@ Possuo carro próprio.
 <img src="../certificados/certificado_introdução_ao_git_github.png" alt="certificado_introdução_ao_git_github" title="Certificado GIT e GITHUB">
 <img src="../certificados/certificado_introdução_html_css.png" alt="certificado_introdução_ao_git_github" title="Certificado HTML5 E CSS3">
 <img src="../certificados/Certificado_Programacao_para_net_JavaScript.png" alt="certificado_programação para internet com JavaScript" title="Certificado HTML5 E CSS3">
-
+<img src="../certificados/CRUD%20Completo%20Com%20Spring%20Boot%20REST%20API.png" alt="certificado_programação para internet com JavaScript" title="Certificado HTML5 E CSS3">
