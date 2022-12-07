@@ -62,7 +62,10 @@ Possuo carro próprio.
 
 ### Certificados
 
-<img src="./certificados/certificado_introdução_ao_git_github.png" alt="certificado_introdução_ao_git_github" title="Certificado GIT e GITHUB">
-<img src="./certificados/certificado_introdução_html_css.png" alt="certificado_introdução_ao_git_github" title="Certificado HTML5 E CSS3">
-<img src="./certificados/Certificado_Programacao_para_net_JavaScript.png" alt="certificado_programação para internet com JavaScript" title="Certificado HTML5 E CSS3">
-<img src="./certificados/CRUD%20Completo%20Com%20Spring%20Boot%20REST%20API.png" alt="certificado_programação para internet com JavaScript" title="Certificado HTML5 E CSS3">
+<img src="./certificados/Construindo_paginas_para_internet_com_Bootstrap.png" alt="Construindo_paginas_para_internet_com_Bootstrap" title="Construindo_paginas_para_internet_com_Bootstrap">
+<img src="./certificados/CRUD%20Completo%20Com%20Spring%20Boot%20REST%20API.png" alt="CRUD Completo Com Spring Boot REST API" title="CRUD Completo Com Spring Boot REST API">
+<img src="./certificados/HTML%20Web%20Developer.png" alt="HTML Web Developer" title="HTML Web Developer">
+<img src="./certificados/Intro_GIt_e_ao_GitHub.png" alt="Intro_GIt_e_ao_GitHub" title="Intro_GIt_e_ao_GitHub">
+<img src="./certificados/Intro_HTML_CSS.png" alt="Intro_HTML_CSS" title="Intro_HTML_CSS">
+<img src="./certificados/Jogo%20da%20Cobrianha%20com%20JavaScript.png" alt="Jogo da Cobrianha com JavaScript" title="Jogo da Cobrianha com JavaScript">
+<img src="./certificados/Programação%20para%20Internet%20com%20JavaScript.png" alt="Programação para Internet com JavaScript" title="Programação para Internet com JavaScript">
